@@ -1,0 +1,19 @@
+/* pages/activity/detail/detail.wxss */
+.detail_top{
+    background-color: #dfdfdf;
+    width: 100%;
+    height: 300rpx;
+}
+.detail_top_view{
+    align-items: center;
+}
+
+.detail_top_op_view {
+    background-color: #ffffff;
+    width: 100%;
+    height: 50rpx;
+    margin-top: auto;
+    margin-left: 15rpx;
+    margin-right: 15rpx;
+    margin-bottom: 4rpx;
+}
