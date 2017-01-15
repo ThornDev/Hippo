@@ -1,14 +1,11 @@
 // pages/activity/detail/detail.js
 Page({
   data: {
-    list: [1, 2, 3, 4]
+   
   },
   onLoad: function (options) {
     // 页面初始化 options为页面跳转所带来的参数
-    var lists = [];
-    this.setData({
-      list:lists
-    })
+    
   },
   onReady: function () {
     // 页面渲染完成
